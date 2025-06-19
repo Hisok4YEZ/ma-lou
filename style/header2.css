@@ -51,16 +51,15 @@
     align-items: center;
     gap: 24px;
     z-index: 100;
+
     /* au-dessus */
 }
 
 
 /* Taille du logo */
 .logo {
-    height: 48px;
-    object-fit: contain;
-    border-radius: 6px;
-    box-shadow: 0 0 8px rgba(0, 0, 0, 0.12);
+    padding-top: 13px;
+    height: 120px;
 }
 
 /* Par défaut → blanc sur fond transparent */
